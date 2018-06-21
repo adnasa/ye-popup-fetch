@@ -1,0 +1,20 @@
+{
+  "name": "yeezy-fetch-products",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@commercetools/api-request-builder": "^3.8.0",
+    "@commercetools/sdk-client": "^1.5.7",
+    "@commercetools/sdk-middleware-auth": "^4.0.0",
+    "@commercetools/sdk-middleware-http": "^4.0.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
